@@ -18,6 +18,8 @@ Prepare for the Red Hat Certified Engineer in Enterprise Linux exam (EX342) with
 
 ### 1. [Vorbereitung auf die RHCE-Zertifizierung für Enterprise Linux (EX342)](https://labex.io/de/courses/rhce-enterprise-linux-prep)
 
+[![Vorbereitung auf die RHCE-Zertifizierung für Enterprise Linux (EX342)](https://course-cover.labex.io/rhce-enterprise-linux-prep.png?lang=de)](https://labex.io/de/courses/rhce-enterprise-linux-prep)
+
 Ein Vorbereitungskurs für die RHCE-Zertifizierung unter Enterprise Linux mit 28 geführten Fehlerbehebungs-Experimenten. Die Themen reichen von der Beweissicherung über Boot-Vorgänge, Speicher, Pakete, Netzwerke, Anwendungen und Authentifizierung bis hin zu fortgeschrittenen Analysemethoden.
 
 [Kurs Starten](https://labex.io/de/courses/rhce-enterprise-linux-prep) · Labs: 28
@@ -82,6 +84,8 @@ Ein Vorbereitungskurs für die RHCE-Zertifizierung unter Enterprise Linux mit 28
 
 ### 2. [RHCE in Enterprise Linux Übungsprüfung 01](https://labex.io/de/courses/rhce-enterprise-linux-practice-exam-01)
 
+[![RHCE in Enterprise Linux Übungsprüfung 01](https://course-cover.labex.io/rhce-enterprise-linux-practice-exam-01.png?lang=de)](https://labex.io/de/courses/rhce-enterprise-linux-practice-exam-01)
+
 Eine praxisorientierte RHCE in Enterprise Linux Übungsprüfung mit 14 unabhängigen RHEL-Fehlerbehebungsszenarien, die Beweissicherung, Boot-Vorgänge, Speicher, Pakete, Netzwerke, Anwendungen, SELinux, Container, Authentifizierung und SystemTap abdecken.
 
 [Kurs Starten](https://labex.io/de/courses/rhce-enterprise-linux-practice-exam-01) · Labs: 14
@@ -141,6 +145,8 @@ Eine praxisorientierte RHCE in Enterprise Linux Übungsprüfung mit 14 unabhäng
 |       1 | 🎯  Crash- und SystemTap-Untersuchungsdaten erfassen | Anfänger        | [Challenge Starten](https://labex.io/de/labs/rhel-gather-crash-and-systemtap-investigation-data-664464?course=rhce-enterprise-linux-practice-exam-01) |
 
 ### 3. [RHCE in Enterprise Linux Übungsprüfung 02](https://labex.io/de/courses/rhce-enterprise-linux-practice-exam-02)
+
+[![RHCE in Enterprise Linux Übungsprüfung 02](https://course-cover.labex.io/rhce-enterprise-linux-practice-exam-02.png?lang=de)](https://labex.io/de/courses/rhce-enterprise-linux-practice-exam-02)
 
 Eine zweite praxisorientierte RHCE in Enterprise Linux Übungsprüfung mit 14 unabhängigen RHEL-Fehlerbehebungsszenarien, die Beweissicherung, Boot-Vorgänge, Speicher, Pakete, Netzwerke, Anwendungen, SELinux, Container, Authentifizierung und SystemTap abdecken.
 
