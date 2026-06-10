@@ -18,6 +18,8 @@ Prepare for the Red Hat Certified Engineer in Enterprise Linux exam (EX342) with
 
 ### 1. [RHCE in Enterprise Linux Prep (EX342)](https://labex.io/courses/rhce-enterprise-linux-prep)
 
+[![RHCE in Enterprise Linux Prep (EX342)](https://course-cover.labex.io/rhce-enterprise-linux-prep.png)](https://labex.io/courses/rhce-enterprise-linux-prep)
+
 An RHCE in Enterprise Linux preparation course with 28 guided troubleshooting labs arranged from evidence collection to boot, storage, packages, networking, applications, authentication, and advanced investigation.
 
 [Start Course](https://labex.io/courses/rhce-enterprise-linux-prep) · Labs: 28
@@ -82,6 +84,8 @@ An RHCE in Enterprise Linux preparation course with 28 guided troubleshooting la
 
 ### 2. [RHCE in Enterprise Linux Practice Exam 01](https://labex.io/courses/rhce-enterprise-linux-practice-exam-01)
 
+[![RHCE in Enterprise Linux Practice Exam 01](https://course-cover.labex.io/rhce-enterprise-linux-practice-exam-01.png)](https://labex.io/courses/rhce-enterprise-linux-practice-exam-01)
+
 A hands-on RHCE in Enterprise Linux practice exam with 14 independent RHEL troubleshooting incidents covering evidence collection, boot, storage, packages, networking, applications, SELinux, containers, authentication, and SystemTap.
 
 [Start Course](https://labex.io/courses/rhce-enterprise-linux-practice-exam-01) · Labs: 14
@@ -141,6 +145,8 @@ A hands-on RHCE in Enterprise Linux practice exam with 14 independent RHEL troub
 |       1 | 🎯  Gather Crash and SystemTap Investigation Data | Beginner     | [Start Challenge](https://labex.io/labs/rhel-gather-crash-and-systemtap-investigation-data-664464?course=rhce-enterprise-linux-practice-exam-01) |
 
 ### 3. [RHCE in Enterprise Linux Practice Exam 02](https://labex.io/courses/rhce-enterprise-linux-practice-exam-02)
+
+[![RHCE in Enterprise Linux Practice Exam 02](https://course-cover.labex.io/rhce-enterprise-linux-practice-exam-02.png)](https://labex.io/courses/rhce-enterprise-linux-practice-exam-02)
 
 A second hands-on RHCE in Enterprise Linux practice exam with 14 independent RHEL troubleshooting incidents covering evidence collection, boot, storage, packages, networking, applications, SELinux, containers, authentication, and SystemTap.
 
