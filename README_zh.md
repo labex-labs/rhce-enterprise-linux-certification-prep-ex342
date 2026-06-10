@@ -18,6 +18,8 @@
 
 ### 1. [RHCE 企业级 Linux 备考指南 (EX342)](https://labex.io/zh/courses/rhce-enterprise-linux-prep)
 
+[![RHCE 企业级 Linux 备考指南 (EX342)](https://course-cover.labex.io/rhce-enterprise-linux-prep.png?lang=zh)](https://labex.io/zh/courses/rhce-enterprise-linux-prep)
+
 本课程专为 RHCE 认证备考设计，包含 28 个引导式故障排查实验。内容涵盖从证据收集到系统引导、存储管理、软件包维护、网络配置、应用排查、身份验证以及高级调查等核心领域。
 
 [开始课程](https://labex.io/zh/courses/rhce-enterprise-linux-prep) · 实验: 28
@@ -82,6 +84,8 @@
 
 ### 2. [RHCE 企业级 Linux 实战模拟考试 01](https://labex.io/zh/courses/rhce-enterprise-linux-practice-exam-01)
 
+[![RHCE 企业级 Linux 实战模拟考试 01](https://course-cover.labex.io/rhce-enterprise-linux-practice-exam-01.png?lang=zh)](https://labex.io/zh/courses/rhce-enterprise-linux-practice-exam-01)
+
 这是一场 RHCE 企业级 Linux 实战模拟考试，包含 14 个独立的 RHEL 故障排查案例，涵盖了证据收集、系统引导、存储管理、软件包管理、网络配置、应用程序、SELinux、容器、身份验证以及 SystemTap 等核心领域。
 
 [开始课程](https://labex.io/zh/courses/rhce-enterprise-linux-practice-exam-01) · 实验: 14
@@ -141,6 +145,8 @@
 |    1 | 🎯  收集崩溃与 SystemTap 调查数据 | 初级   | [开始挑战](https://labex.io/zh/labs/rhel-gather-crash-and-systemtap-investigation-data-664464?course=rhce-enterprise-linux-practice-exam-01) |
 
 ### 3. [RHCE 企业级 Linux 实战模拟考试 02](https://labex.io/zh/courses/rhce-enterprise-linux-practice-exam-02)
+
+[![RHCE 企业级 Linux 实战模拟考试 02](https://course-cover.labex.io/rhce-enterprise-linux-practice-exam-02.png?lang=zh)](https://labex.io/zh/courses/rhce-enterprise-linux-practice-exam-02)
 
 这是第二套 RHCE 企业级 Linux 实战模拟考试，包含 14 个独立的 RHEL 故障排查案例，涵盖证据收集、系统引导、存储管理、软件包、网络配置、应用程序、SELinux、容器、身份验证以及 SystemTap 等核心领域。
 
