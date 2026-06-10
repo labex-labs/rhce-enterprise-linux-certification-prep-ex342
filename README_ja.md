@@ -18,6 +18,8 @@ RHCSA（EX200）を前提に、Red Hat Certified Engineer in Enterprise Linux（
 
 ### 1. [RHCE in Enterprise Linux 対策コース (EX342)](https://labex.io/ja/courses/rhce-enterprise-linux-prep)
 
+[![RHCE in Enterprise Linux 対策コース (EX342)](https://course-cover.labex.io/rhce-enterprise-linux-prep.png?lang=ja)](https://labex.io/ja/courses/rhce-enterprise-linux-prep)
+
 RHCE in Enterprise Linux 試験対策コースです。証拠収集から起動、ストレージ、パッケージ、ネットワーク、アプリケーション、認証、高度な調査に至るまで、28 のガイド付きトラブルシューティング実験を通じて学習します。
 
 [コースを開始](https://labex.io/ja/courses/rhce-enterprise-linux-prep) · ラボ: 28
@@ -82,6 +84,8 @@ RHCE in Enterprise Linux 試験対策コースです。証拠収集から起動�
 
 ### 2. [RHCE in Enterprise Linux 模擬試験 01](https://labex.io/ja/courses/rhce-enterprise-linux-practice-exam-01)
 
+[![RHCE in Enterprise Linux 模擬試験 01](https://course-cover.labex.io/rhce-enterprise-linux-practice-exam-01.png?lang=ja)](https://labex.io/ja/courses/rhce-enterprise-linux-practice-exam-01)
+
 RHCE in Enterprise Linux の実践的な模擬試験です。証拠収集、ブート、ストレージ、パッケージ、ネットワーク、アプリケーション、SELinux、コンテナ、認証、SystemTap を網羅した、14 の独立した RHEL トラブルシューティング課題で構成されています。
 
 [コースを開始](https://labex.io/ja/courses/rhce-enterprise-linux-practice-exam-01) · ラボ: 14
@@ -141,6 +145,8 @@ RHCE in Enterprise Linux の実践的な模擬試験です。証拠収集、ブ�
 |        1 | 🎯  クラッシュおよび SystemTap 調査データの収集 | 初級    | [チャレンジを開始](https://labex.io/ja/labs/rhel-gather-crash-and-systemtap-investigation-data-664464?course=rhce-enterprise-linux-practice-exam-01) |
 
 ### 3. [RHCE in Enterprise Linux 実践試験 02](https://labex.io/ja/courses/rhce-enterprise-linux-practice-exam-02)
+
+[![RHCE in Enterprise Linux 実践試験 02](https://course-cover.labex.io/rhce-enterprise-linux-practice-exam-02.png?lang=ja)](https://labex.io/ja/courses/rhce-enterprise-linux-practice-exam-02)
 
 RHCE in Enterprise Linux 実践試験の第 2 弾です。証拠収集、ブート、ストレージ、パッケージ、ネットワーク、アプリケーション、SELinux、コンテナ、認証、SystemTap など、RHEL のトラブルシューティングに関する 14 の独立した課題で構成されています。
 
