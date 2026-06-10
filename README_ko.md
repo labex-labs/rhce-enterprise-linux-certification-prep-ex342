@@ -18,6 +18,8 @@ Prepare for the Red Hat Certified Engineer in Enterprise Linux exam (EX342) with
 
 ### 1. [RHCE in Enterprise Linux 대비 과정 (EX342)](https://labex.io/ko/courses/rhce-enterprise-linux-prep)
 
+[![RHCE in Enterprise Linux 대비 과정 (EX342)](https://course-cover.labex.io/rhce-enterprise-linux-prep.png?lang=ko)](https://labex.io/ko/courses/rhce-enterprise-linux-prep)
+
 증거 수집부터 부팅, 스토리지, 패키지, 네트워킹, 애플리케이션, 인증, 고급 조사에 이르기까지 28 개의 가이드형 문제 해결 실험으로 구성된 RHCE in Enterprise Linux 대비 과정입니다.
 
 [코스 시작](https://labex.io/ko/courses/rhce-enterprise-linux-prep) · 실습: 28
@@ -82,6 +84,8 @@ Prepare for the Red Hat Certified Engineer in Enterprise Linux exam (EX342) with
 
 ### 2. [RHCE in Enterprise Linux 실전 모의고사 01](https://labex.io/ko/courses/rhce-enterprise-linux-practice-exam-01)
 
+[![RHCE in Enterprise Linux 실전 모의고사 01](https://course-cover.labex.io/rhce-enterprise-linux-practice-exam-01.png?lang=ko)](https://labex.io/ko/courses/rhce-enterprise-linux-practice-exam-01)
+
 증거 수집, 부팅, 스토리지, 패키지, 네트워킹, 애플리케이션, SELinux, 컨테이너, 인증 및 SystemTap 을 아우르는 14 개의 독립적인 RHEL 문제 해결 시나리오로 구성된 실습형 RHCE in Enterprise Linux 모의고사입니다.
 
 [코스 시작](https://labex.io/ko/courses/rhce-enterprise-linux-practice-exam-01) · 실습: 14
@@ -141,6 +145,8 @@ Prepare for the Red Hat Certified Engineer in Enterprise Linux exam (EX342) with
 |     1 | 🎯  크래시 및 SystemTap 조사 데이터 수집 | 초급    | [도전 시작](https://labex.io/ko/labs/rhel-gather-crash-and-systemtap-investigation-data-664464?course=rhce-enterprise-linux-practice-exam-01) |
 
 ### 3. [RHCE in Enterprise Linux 실전 모의고사 02](https://labex.io/ko/courses/rhce-enterprise-linux-practice-exam-02)
+
+[![RHCE in Enterprise Linux 실전 모의고사 02](https://course-cover.labex.io/rhce-enterprise-linux-practice-exam-02.png?lang=ko)](https://labex.io/ko/courses/rhce-enterprise-linux-practice-exam-02)
 
 증거 수집, 부팅, 스토리지, 패키지, 네트워킹, 애플리케이션, SELinux, 컨테이너, 인증 및 SystemTap 을 아우르는 14 개의 독립적인 RHEL 문제 해결 시나리오로 구성된 두 번째 RHCE in Enterprise Linux 실전 모의고사입니다.
 
