@@ -18,6 +18,8 @@ Prepare for the Red Hat Certified Engineer in Enterprise Linux exam (EX342) with
 
 ### 1. [Подготовка к сертификации RHCE в Enterprise Linux (EX342)](https://labex.io/ru/courses/rhce-enterprise-linux-prep)
 
+[![Подготовка к сертификации RHCE в Enterprise Linux (EX342)](https://course-cover.labex.io/rhce-enterprise-linux-prep.png?lang=ru)](https://labex.io/ru/courses/rhce-enterprise-linux-prep)
+
 Курс подготовки к RHCE в Enterprise Linux, включающий 28 практических лабораторных работ по устранению неполадок: от сбора данных до решения проблем с загрузкой, хранилищами, пакетами, сетью, приложениями, аутентификацией и глубоким анализом системы.
 
 [Начать Курс](https://labex.io/ru/courses/rhce-enterprise-linux-prep) · Лаборатории: 28
@@ -82,6 +84,8 @@ Prepare for the Red Hat Certified Engineer in Enterprise Linux exam (EX342) with
 
 ### 2. [RHCE в Enterprise Linux: Практический экзамен 01](https://labex.io/ru/courses/rhce-enterprise-linux-practice-exam-01)
 
+[![RHCE в Enterprise Linux: Практический экзамен 01](https://course-cover.labex.io/rhce-enterprise-linux-practice-exam-01.png?lang=ru)](https://labex.io/ru/courses/rhce-enterprise-linux-practice-exam-01)
+
 Практический экзамен по RHCE в Enterprise Linux, включающий 14 независимых сценариев по устранению неполадок в RHEL. Задания охватывают сбор диагностических данных, процесс загрузки, управление хранилищами, пакетами, сетью, приложениями, SELinux, контейнерами, аутентификацией и использование SystemTap.
 
 [Начать Курс](https://labex.io/ru/courses/rhce-enterprise-linux-practice-exam-01) · Лаборатории: 14
@@ -141,6 +145,8 @@ Prepare for the Red Hat Certified Engineer in Enterprise Linux exam (EX342) with
 |        1 | 🎯  Сбор данных для расследования сбоев и использования SystemTap | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/rhel-gather-crash-and-systemtap-investigation-data-664464?course=rhce-enterprise-linux-practice-exam-01) |
 
 ### 3. [RHCE в Enterprise Linux: Практический экзамен 02](https://labex.io/ru/courses/rhce-enterprise-linux-practice-exam-02)
+
+[![RHCE в Enterprise Linux: Практический экзамен 02](https://course-cover.labex.io/rhce-enterprise-linux-practice-exam-02.png?lang=ru)](https://labex.io/ru/courses/rhce-enterprise-linux-practice-exam-02)
 
 Второй практический экзамен по RHCE в Enterprise Linux, включающий 14 независимых сценариев по устранению неполадок в RHEL. Задания охватывают сбор диагностических данных, загрузку системы, управление хранилищами, пакетами, сетью, приложениями, SELinux, контейнерами, аутентификацией и SystemTap.
 
